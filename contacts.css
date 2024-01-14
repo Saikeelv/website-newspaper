@@ -1,0 +1,70 @@
+.header{
+    font-family:Times;
+    font-size: 45px;
+    margin-bottom: 0px;
+}
+.slim{
+    color: black;
+    width: 1200px;
+    height: 2px;
+
+}
+.fat{
+    color: black;
+    width: 1160px;
+    height: 1px;
+    
+}
+.lines{
+     justify-content: center; 
+}
+
+.menu_table{
+    width: 1200px;
+    font-family:Times;
+    font-size: 28px;
+    font-weight: bold;
+}
+.links{
+    color:rgb(0, 0, 0); 
+    text-decoration: none;
+
+}
+.links:hover{
+    text-decoration: underline;
+}
+.page{ 
+    font-size: 22px;
+    width: 1200px;
+    font-family:Times;
+    
+}
+.button {
+    
+    text-decoration: none;
+    padding:17px;
+	color: rgba(0, 0, 0);
+	background-color: rgb(198, 201, 204);
+    font-size: 22px;
+   
+    
+}
+.button:hover{
+    text-decoration: underline;
+}
+
+.footer{
+    margin-top: 80px;
+    font-family: times;
+    font-size: 14px;
+    width: 1200px;
+    border-top: 1px solid #ccc;
+    clear: both;
+
+}
+.table{
+    background-color: rgb(198, 201, 204);
+}
+.but{
+    border: 5px solid white;
+}

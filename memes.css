@@ -1,0 +1,107 @@
+
+.gosling{
+    height: 504px;
+    width:444px;
+    overflow: hidden;
+    border-radius: 15px;
+    border-color: white;
+
+}
+.header{
+    font-family:Times;
+    font-size: 45px;
+    margin-bottom: 0px;
+}
+.slim{
+    color: black;
+    width: 1200px;
+    height: 2px;
+
+}
+.fat{
+    color: black;
+    width: 1160px;
+    height: 1px;
+    
+}
+.lines{
+     justify-content: center; 
+}
+
+.menu_table{
+    width: 1200px;
+    font-family:Times;
+    font-size: 28px;
+    font-weight: bold;
+}
+.links{
+    color:rgb(0, 0, 0); 
+    text-decoration: none;
+
+}
+.links:hover{
+    text-decoration: underline;
+}
+.page{ 
+    font-size: 22px;
+    width: 1200px;
+    font-family:Times;
+    
+}
+.t1{
+    display: inline-block;
+    border-color: black;
+    border-left: solid 2px ;
+    
+}
+.t2{
+    display: inline-block;
+    
+    padding-right: 10px;
+}
+.zaglav{
+    width: 1200px;
+    justify-content: center; 
+    font-size: 28px;
+    font-family: times;
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.text1{
+    font-size: 28px;
+    font-family: times;
+}
+#marq{
+    margin-top: 10px;
+    height: 30px;
+    border-color: black;
+    border:solid 2px;
+    border-radius: 10px;
+    padding-top: 10xp;
+    padding-bottom: 0xp;
+    vertical-align: center;
+}
+.text1#text_1_1{
+    margin: 10px;
+}
+.text{
+    text-align: justify;
+    margin: 5px 10px 10px 10px; 
+    padding: 0px 5px 5px 5px;
+}
+.text:hover{
+    background-color: rgb(198, 201, 204);
+ 
+    border-radius: 10px;
+    
+
+}
+.footer{
+    margin-top: 10px;
+    font-family: times;
+    font-size: 14px;
+    width: 1200px;
+    border-top: 1px solid #ccc;
+    clear: both;
+
+}

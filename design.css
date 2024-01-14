@@ -1,0 +1,86 @@
+.header{
+    font-family:Times;
+    font-size: 45px;
+    margin-bottom: 0px;
+}
+.slim{
+    color: black;
+    width: 1200px;
+    height: 2px;
+
+}
+.fat{
+    color: black;
+    width: 1160px;
+    height: 1px;
+    
+}
+.lines{
+     justify-content: center; 
+}
+
+.menu_table{
+    width: 1200px;
+    font-family:Times;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.links{
+    color:rgb(0, 0, 0); 
+    text-decoration: none;
+
+}
+.links:hover{
+    text-decoration: underline;
+}
+
+.date{
+    width: 1200px;
+    justify-content: center; 
+    font-size: 28px;
+    font-family: times;
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.page{ 
+    font-size: 22px;
+    width: 1200px;
+}
+#left{
+    border: solid rgb(255, 255, 255) 2px;
+    
+}
+#right{
+    border: solid 2px;
+    border-left-color: black;
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: white;
+    border-bottom-color: white;
+}
+.month_news{
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    margin-bottom: 0px;
+}
+.month_news:hover{
+    background-color: rgb(198, 201, 204);
+}
+
+.imag{
+	float:right;
+	width:450px;
+    margin: 10px;
+}
+.text{
+    text-align: justify;
+}
+.footer{
+    margin-top: 10px;
+    font-family: times;
+    font-size: 14px;
+    width: 1200px;
+    border-top: 1px solid #ccc;
+    clear: both;
+
+}
